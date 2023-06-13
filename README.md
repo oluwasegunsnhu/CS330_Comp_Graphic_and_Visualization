@@ -1,1 +1,1 @@
-# CS499_Repository
+# CS330_Comp_Graphic_and_Visualization
